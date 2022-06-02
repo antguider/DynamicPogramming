@@ -28,7 +28,7 @@ function removeDuplicate(intArr) {
 //     for (const int of intArr) {
 //         visited[int] = true;
 //     }
-//     return Object.keys(visited);
+//     return Object.keys(visited).map(x => parseInt(x));
 // }
 
 const input = [2, 4, 4,4, 44, 121 , 33];

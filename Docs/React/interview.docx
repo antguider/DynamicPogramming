@@ -1,0 +1,16 @@
+1. What are the best practices for API integration with error handling in an Angular application?
+2. What have you done to improve the performance of your Angular application?
+3. How would you write unit tests for a scenario where clicking a button calls an API and retrieves data in Angular?
+4. Have you implemented authentication and authorization in Angular? What approach did you use?
+5. How would you display a list of strings in alphabetical order in the Angular UI, given that they are received in random order from an API?
+6. What is a CORS issue, and how did you resolve it?
+7. What is your approach to handling large data sets on the frontend?
+8. What do you know about RxJS? Explain in detail.
+9. Explain the rendering process in Angular, specifically focusing on change detection.
+10. What do you understand by state management? Provide 1-2 scenarios where you have used it in your project.
+11. What do you understand by TDD and BDD approaches in software development?
+12. What is the difference between an Observable and a Promise?
+13. Explain pure pipes, impure pipes, and custom pipes with respect to change detection.
+14. What are custom directives, host listeners, and host bindings in Angular?
+15. How do you send headers through an HTTP request manually and using an interceptor?
+16. What are JIT and AOT with practical use cases?

@@ -9,10 +9,19 @@ var eraseOverlapIntervals = function (intervals) {
     let end = intervals[0][1];
     console.log('end', end);
 
-
+    for (let i = 0; i < intervals.length; i++) {
+        let currInterval = intervals[i];
+        let startInterval = currInterval[0];
+        let endInterval = currInterval[1];
+        if(startInterval < end) {
+            count++;
+            end = Math.min(endInterval, end);
+        } else {
+            end = endInterval;
+        }
+    }
+    return count;
 };
-
-
 
 
 const input1 = [[1, 100], [1, 2], [2, 4], [4, 5]];

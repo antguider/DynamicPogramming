@@ -1,0 +1,2 @@
+Redux:
+Usefull to manage to state across micro frontends.

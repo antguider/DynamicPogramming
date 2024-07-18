@@ -9,7 +9,7 @@ var eraseOverlapIntervals = function (intervals) {
     let end = intervals[0][1];
     console.log('end', end);
 
-    for (let i = 0; i < intervals.length; i++) {
+    for (let i = 1; i < intervals.length; i++) {
         let currInterval = intervals[i];
         let startInterval = currInterval[0];
         let endInterval = currInterval[1];

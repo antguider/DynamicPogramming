@@ -1,0 +1,52 @@
+1. Microservices Experience:
+    Used in APM and MSA Lifescience product. 
+    Challenges included identifying service boundaries, managing inter-service communication, and ensuring data consistency.
+
+2. Monoliths to Microservices Transition:
+•	Describe a specific project where you led the transition from a monolithic to a microservices architecture. What challenges did you face, and how did you overcome them?
+In the APM project at GE Vernova, I led the transition from a monolithic to a microservices architecture. Challenges included identifying service boundaries, managing inter-service communication, and ensuring data consistency. We overcame these by using domain-driven design to define microservices, employing a message broker (Kafka) for inter-service communication
+•	How do you decide which parts of a monolith should be broken into microservices, and what factors do you consider in making this decision?
+To break into microservices involves identifying distinct business capabilities and ensuring they have well-defined boundaries. (e.g., areas of the codebase that are frequently modified)
+
+
+3. Language Proficiency:
+•	Should you have experience with MERN stack can you discuss how that language is well-suited for microservices development? Any specific features or best practices you find crucial in this context?
+MERN is well-suited for microservices development due to its flexibility and the ability to handle JSON seamlessly across the stack. Node.js, in particular, is non-blocking and event-driven, which makes it ideal for building scalable microservices.
+
+
+4. Event-Driven Architectures:
+•	Share your experience with implementing event-driven architectures. How do you design systems to be event-driven, and what benefits have you observed in doing so?
+In the APM project, we implemented an event-driven architecture using AWS SQS for event messaging. This design enabled decoupling of services, leading to improved scalability and fault tolerance. The benefits included easier maintenance, better system responsiveness, and the ability to process high volumes of events asynchronously.
+•	Can you provide an example of a situation where an event-driven approach significantly improved system performance or scalability?
+
+
+5. Cloud Experience
+•	What are the different Cloud technologies you have worked and what are the services used
+I used mostly AWS services, EC2, ECS and Lambda.
+
+
+6. Serverless Experience:
+•	Describe a project where you utilized serverless computing for specific components. What were the advantages and challenges you encountered?
+In the APM project, we utilized AWS Lambda for real-time data processing tasks. The advantages included reduced infrastructure management
+•	How do you decide whether a particular component or service is suitable for a serverless architecture?
+A component is suitable for a serverless architecture if it requires infrequent, event-driven execution, has unpredictable workloads.
+
+
+7. Scalability and Performance:
+•	How do you address scalability concerns when designing and implementing microservices architectures? 
+In the APM project, we successfully scaled the system horizontally by containerizing microservices with Docker.
+•	What strategies do you employ to optimize the performance of distributed systems, particularly in a microservices environment?
+Performance optimization strategies include implementing caching (e.g., Redis), optimizing database queries, using CDN for static content delivery.
+
+
+8. Monitoring and Debugging:
+•	Discuss your approach to monitoring and debugging in a microservices and serverless environment. How do you ensure visibility into the system's behavior and performance?
+Using a centralized logging technology
+
+
+9. Security in Microservices:
+•	How do you address security challenges in a microservices architecture, especially during the transition from monoliths?
+Security challenges are addressed by implementing API gateways for centralized access control, using OAuth/OpenID for authentication and authorization, and securing communication channels with TLS.
+•	What security considerations are important when implementing serverless event-driven systems?
+Key security considerations for serverless event-driven systems include securing access to event sources (e.g.SQS), implementing least privilege access for Lambda functions. 
+

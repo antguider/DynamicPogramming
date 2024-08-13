@@ -1,24 +1,48 @@
 Why you are changing/leaving current Job?
-
 "I'm seeking new challenges to further develop my skills and advance my career."
+Lot of resturing happened in company, due to this, I don't have competetive peer/senior to check my work to upgrade my skill. 
+
 
 How many months Notice peroid?
-
 I am serving notice peroid.
 
 You have any offer?
-
-"Yes, I do have an offer in hand, but I'm still exploring opportunities that align best with my career goals and professional growth."
+"Yes, I do have an offer in hand, but I'm still exploring opportunities that align best for my professional growth."
 
 
 What are your career goals?
 
 
 Why do you want to work for our company?
-
-
-How do you ensure the quality of your code or work?
-
+I believe that the projects and technologies you’re working on align well with my skills, 
+and I’m excited about the opportunity to contribute to a team that’s making a significant impact.
 
 
 Describe your role?
+My role involves developing and maintaining front-end features using technologies like React, 
+ensuring a seamless user experience. I collaborate closely with cross-functional teams to translate design into functional code, 
+optimize performance, and implement best practices. Additionally, I’m responsible for code reviews, mentoring junior developers, 
+and staying updated with the latest trends to continually improve our processes and deliver high-quality products.
+
+
+How do you ensure the quality of your code or work?
+I ensure the quality of my code by following best practices, such as writing clean, modular code, adhering to coding standards, 
+and conducting thorough testing. I use tools like linters and automated tests to catch issues early.
+Additionally, I focus on writing dev documentation and maintainable code to ensure long-term quality and ease of collaboration.
+
+
+How do you approach problem-solving when you encounter a roadblock in a project?
+When I encounter a roadblock in a project, I start by breaking down the problem to understand its root cause. 
+I’ll research possible solutions, review documentation, and consult with team members if needed.
+If the issue persists, I might experiment with different approaches or create a simplified version of the problem to test potential fixes.
+
+
+How soon are you available to start if selected?
+I’m currently serving my notice period and have 2 weeks remaining. 
+I’m committed to fulfilling my KT at my current role but can start immediately after that, 
+or potentially earlier if we can negotiate a shorter notice period.
+
+
+What do you value most in a work environment?
+I value a work environment that encourage collaboration, continuous learning, and innovation. 
+Being part of a team where open communication and knowledge sharing are encouraged is important to me. 

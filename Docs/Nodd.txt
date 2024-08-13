@@ -1,0 +1,2 @@
+REST = CRUD
+Versionsing v1/v2/

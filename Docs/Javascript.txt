@@ -1,0 +1,31 @@
+
+
+Event loop:
+Consider a button, if you click multiple times faster it inject to a call stack and executes one by one without blocking new clicks.
+
+
+Event prioty:
+console.log('Start');
+
+setTimeout(() => {
+  console.log('Timeout');
+}, 0);
+
+Promise.resolve().then(() => {
+  console.log('Promise');
+});
+
+console.log('End');
+
+Start
+End
+Promise
+Timeout
+
+How would you optimize the performance of a web application?
+* less HTTP calls
+* Image optimize
+* Code splitting (lazy loading)
+* Caching
+* Bundle size reduction
+* Debounce or throttle user input events.

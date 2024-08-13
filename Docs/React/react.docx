@@ -1,3 +1,41 @@
+Manual Routing: 
+
+const navigate = useNavigate();
+const handleClick = () => navigate('/goodbye');
+const goback = () => navigate(-1);
+const forward = () => navigate(1);
+
+useHistory// Is old version for useNavigate
+
+
+Hydration in Next.js ?
+
+
+
+Lazy loading:
+In a React application, code splitting can be implemented using dynamic import() and React.lazy. Here’s how you can do it:
+
+import React, { Suspense, lazy } from 'react';
+
+const LazyComponent = lazy(() => import('./LazyComponent'));
+
+function App() {
+  return (
+    <div>
+      <Suspense fallback={<div>Loading...</div>}>
+        <LazyComponent />
+      </Suspense>
+    </div>
+  );
+}
+
+export default App;
+
+
+
+
+
+
 1. What are the best practices for API integration with error handling in an React application?
 2. What have you done to improve the performance of your React application?
 3. How would you write unit tests for a scenario where clicking a button calls an API and retrieves data in React?

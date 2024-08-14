@@ -1,13 +1,20 @@
+Introduce yourself?
+I am Muthukumar, having high experience in developing and maintaining front-end features using technologies like React, 
+ensuring a seamless user experience. Last 6+ years I working as Staff Software Engineer in GE. In this role I 
+collaborate closely with cross-functional teams to translate design into functional code, optimize performance, 
+and implement best practices. Additionally, I’m responsible for code reviews, mentoring junior developers.
+
+
 Why you are changing/leaving current Job?
 "I'm seeking new challenges to further develop my skills and advance my career."
-Lot of resturing happened in company, due to this, I don't have competetive peer/senior to check my work to upgrade my skill. 
+Lot of resturing happened in company, due to this, I don't have any competetive peer/senior to check my work to upgrade my skill. 
 
 
 How many months Notice peroid?
 I am serving notice peroid.
 
 You have any offer?
-"Yes, I do have an offer in hand, but I'm still exploring opportunities that align best for my professional growth."
+"Yes, I do have an offer in hand, but I'm still exploring opportunities that best for my professional growth."
 
 
 What are your career goals?
@@ -25,6 +32,22 @@ optimize performance, and implement best practices. Additionally, I’m responsi
 and staying updated with the latest trends to continually improve our processes and deliver high-quality products.
 
 
+Can you give an example of how you've successfully worked with cross-functional teams?
+I worked closely with a cross-functional team that included designers, back-end developers, 
+and product managers to build a new feature for our web application. 
+My role was to implement the front-end components while ensuring seamless integration with the back-end services.
+
+To facilitate collaboration, I scheduled regular check-ins to align on requirements, share progress, 
+and address any challenges. I actively communicated with the design team to ensure the UI matched their vision 
+and worked with the back-end developers to ensure the APIs were delivering the necessary data efficiently.
+
+In inital stage challenge we faced a mismatch between the front-end design and the data structure provided by the back-end.
+By working closely with both teams, we were able to adjust the API and tweak the front-end components to maintain the design integrity 
+and ensure a smooth user experience.
+
+This collaboration resulted in the successful launch of the feature on time, with positive feedback from users and stakeholders.
+
+
 How do you ensure the quality of your code or work?
 I ensure the quality of my code by following best practices, such as writing clean, modular code, adhering to coding standards, 
 and conducting thorough testing. I use tools like linters and automated tests to catch issues early.
@@ -38,11 +61,27 @@ If the issue persists, I might experiment with different approaches or create a 
 
 
 How soon are you available to start if selected?
-I’m currently serving my notice period and have 2 weeks remaining. 
+I’m currently serving my notice period and have 4 weeks remaining. 
 I’m committed to fulfilling my KT at my current role but can start immediately after that, 
 or potentially earlier if we can negotiate a shorter notice period.
 
 
 What do you value most in a work environment?
 I value a work environment that encourage collaboration, continuous learning, and innovation. 
-Being part of a team where open communication and knowledge sharing are encouraged is important to me. 
+Being part of a team where open communication and knowledge sharing are encouraged is important to me.
+
+
+How do you ensure continuous learning and self-improvement in your career?
+I ensure continuous learning and self-improvement by regularly setting aside time to explore new technologies and trends in my field. 
+I actively participate in online courses, attend webinars, and follow industry blogs and forums.
+
+
+How do you handle stress and tight deadlines?
+I break down the work into manageable pieces and focus on completing one task at a time.
+Maintaining clear communication with my team helps ensure everyone is aligned and aware of any potential challenges.
+To manage stress, I practice yoga regularly, which helps me stay calm, focused, and maintain a positive mindset.
+
+
+
+
+

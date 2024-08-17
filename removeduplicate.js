@@ -1,15 +1,5 @@
 //Remove duplicate from the integer array
 
-// function removeDuplicate(intArr) {
-//     const newArray = [];
-//     for (const int of intArr) {
-//         if(newArray.indexOf(int) === -1) {
-//             newArray.push(int);
-//         }
-//     }
-//     return newArray;
-// }
-
 function removeDuplicate(intArr) {
     const sortedArray = intArr.sort((a, b) => a-b);
     let currInt = sortedArray[0];

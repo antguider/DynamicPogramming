@@ -29,3 +29,7 @@ How would you optimize the performance of a web application?
 * Caching
 * Bundle size reduction
 * Debounce or throttle user input events.
+
+
+slice(): creates a new array with a portion of elements copied from the original array
+splice(): changes the original array itself by removing, replacing or adding elements to it.

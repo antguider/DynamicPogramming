@@ -33,3 +33,19 @@ How would you optimize the performance of a web application?
 
 slice(): creates a new array with a portion of elements copied from the original array
 splice(): changes the original array itself by removing, replacing or adding elements to it.
+
+
+Deepclone:
+function deepClone(obj) {
+    return JSON.parse(JSON.stringify(obj));
+}
+
+
+Debouncing vs Throttling: Key Differences
+Execution Frequency: Debouncing postpones the execution until after a period of inactivity, 
+while throttling limits the execution to a fixed number of times over an interval.
+
+Use Cases: Debouncing is ideal for tasks that don’t need to execute repeatedly in quick succession, 
+such as API calls based on user input. 
+Throttling is suited for controlling the execution rate of functions called in response to events like scrolling or resizing.
+//// refer debounce.js file

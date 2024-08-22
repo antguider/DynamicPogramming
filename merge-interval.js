@@ -16,8 +16,11 @@ var merge = function (intervals) {
             resArr.push(currInterval);
         }
     }
+    console.log('resArr', resArr);
     return resArr;
 };
+
+merge([[1,3],[2,6],[8,10],[15,18]])
 
 // Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
 // Output: [[1,6],[8,10],[15,18]]

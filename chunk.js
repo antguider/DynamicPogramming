@@ -8,5 +8,5 @@ function chunk(array, limit) {
     }
     return chunkArr;
 }
-const res = chunk([1, 2, 3, 4, 5, 6, 7], 5);
+const res = chunk([1, 2, 3, 4, 5, 6, 7], 2);
 console.log(res);

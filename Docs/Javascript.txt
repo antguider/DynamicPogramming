@@ -61,3 +61,10 @@ Use Cases: Debouncing is ideal for tasks that don’t need to execute repeatedly
 such as API calls based on user input. 
 Throttling is suited for controlling the execution rate of functions called in response to events like scrolling or resizing.
 //// refer debounce.js file
+
+
+webvitals:
+Used to measure the performance of the application. Using the "web-vitals" JavaScript library.
+Largest Contentful Paint (LCP): measures loading performance.
+Interaction to Next Paint (INP): measures interactivity.
+Cumulative Layout Shift (CLS): measures visual stability.
